@@ -1,3 +1,5 @@
 Hello, I'm adding this after the completion of this project to explain some things. Firstly, to actually run this program correctly, you need to compile and run "Team.java". You could run the others independently, but that is not the intention - "Team.java" contains GUI options to navigate the different files already. Also, there may still be some existing bugs, since this was a course project that could not get fleshed out to perfection. 
 
+What this project was: This was an ever-evolving software developing project where my professor would give up specific goals and deadlines for us to meet and we were to program a "game" to match the goals. We would have a week or two to meet this goals and then the goals and project scope would expand/adapt. This process repeated until the end of the semester. This project is a demonstration of my ability to meet goals and deadlines and adapt to changing project ideas, as well as create good object-oriented code that can be manipulated and called upon.
+
 Thanks for checking this out.
